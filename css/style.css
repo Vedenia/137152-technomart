@@ -1,0 +1,47 @@
+body {
+font-size: 13px;
+line-height: 24px;
+color: #000000;
+font-weight: normal;
+font-family: Cuprum Regular, Arial, serif;
+}
+
+h3 {
+font-size: 30px;
+line-height: 24px;
+color: #000000;
+font-weight: bold;
+font-family: Cuprum Regular, Arial Narrow, Arial, serif;
+}
+
+.service-name {
+font-size: 36px;
+line-height: 24px;
+color: #32425c;
+font-weight: bold;
+font-family: Cuprum Regular, Arial Narrow, Arial, serif;
+}
+
+.product-title, .producer-title {
+font-size: 30px;
+line-height: 30px;
+color: #32425c;
+font-weight: bold;
+font-family: Cuprum Regular, Arial Narrow, Arial, serif;
+}
+
+.catalog-title {
+font-size: 30px;
+line-height: 30px;
+color: #32425c;
+font-weight: bold;
+font-family: Cuprum Regular, Arial Narrow, Arial, serif;
+}
+
+.info-title {
+font-size: 30px;
+line-height: 24px;
+color: #000000;
+font-weight: bold;
+font-family: Cuprum Regular, Arial Narrow, Arial, serif;
+}
